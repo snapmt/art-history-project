@@ -17,7 +17,6 @@ header {
     line-height: 60px;
     float:left;
     color:#999;
-    background-color:#616161;
     padding-left: 30px;
 }
 
@@ -69,7 +68,10 @@ footer {
 
 
 h3 {
-  text-align: center;
+  color:#ffffff;
+  font-family:sans-serif;
+  text-align:left;
+
 }
 
 .pics {
@@ -110,15 +112,18 @@ figcaption span {
   font-size: 14px;
 }
 
+.reference {
+padding-left: 60px;
+text-indent: -2em;
+font-family:sans-serif;
+padding-top:20px;
+line-height:1.5;
+color:#ffffff;
+}
+
 h1 {
   color:#ffffff;
   font-family:sans-serif;
-}
-
-h3 {
-  color:#ffffff;
-  font-family:sans-serif;
-  text-align:left;
 }
 
 p {
