@@ -109,3 +109,20 @@ figcaption {
 figcaption span {
   font-size: 14px;
 }
+
+h1 {
+  color:#ffffff;
+  font-family:sans-serif;
+}
+
+h3 {
+  color:#ffffff;
+  font-family:sans-serif;
+  text-align:left;
+}
+
+p {
+  color:#ffffff;
+  font-family:sans-serif;
+  text-align:left;
+}
